@@ -54,18 +54,15 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
 ---
 
 ### GitHub Stats
- 
+
 <p align="center">
-  <img src="./generated/overview.svg" alt="GitHub stats overview" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekjpoojary&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjpoojary&layout=compact&hide_border=true" />
 </p>
-<p align="center">
-  <img src="./generated/languages.svg" alt="Most used languages" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=vivekjpoojary&hide_border=true" />
 </p>
----
- 
 ### Contribution Snake
  
 <p align="center">
