@@ -59,6 +59,6 @@ I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be Universi
 
 ### 📫 Let's Connect
 
-I'm actively looking for opportunities where I can contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
+I'm actively looking for opportunities where I can contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [Email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
 
 <p align="center"><i>Thanks for stopping by! ⭐ this space if you'd like to see more.</i></p>
