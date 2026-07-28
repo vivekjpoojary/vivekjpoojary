@@ -1,61 +1,53 @@
-<h1 align="center">Vivek J Poojary</h1>
-<h3 align="center">Data Science & Software Engineering</h3>
+# Hi, I'm Vivek J Poojary 👋
 
-<p align="center">
-  <a href="https://vivekjpoojary.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vivekjpoojary.vercel.app-2ea44f?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vivekjpoojary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vivekjpoojary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+**Aspiring Data Scientist | Software Engineer | BCA Graduate (2026)**
 
----
+I'm a fresh Computer Applications graduate from Mangaluru, India, passionate about turning data into decisions and building clean, functional software. Currently looking for full-time opportunities in **Data Science, Data Analytics, Software Engineering, and IT Consulting** — open to remote roles and relocation.
 
-## Summary
-
-2026 BCA graduate (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, seeking entry-level opportunities in **Data Science, Data Analytics, Software Engineering, or IT Consulting**. IBM Data Science Professional Certificate holder, with practical experience across full-stack development and applied machine learning. Open to remote work and relocation.
+🔭 Currently sharpening my skills in machine learning pipelines and full-stack development
+🌱 Exploring LangChain, RAG pipelines, and vector databases
+📫 Reach me at **vivekjpoojary@gmail.com**
+🌐 Portfolio: [vivekjpoojary.vercel.app](https://vivekjpoojary.vercel.app)
+💼 [LinkedIn](https://linkedin.com/in/vivekjpoojary) &nbsp;|&nbsp; 📄 [Resume](https://vivekjpoojary.vercel.app)
 
 ---
 
-## Technical Skills
+### 🛠️ Skills & Tools
 
 **Languages:** Python · Java · SQL · JavaScript
-**Data Science:** Pandas · NumPy · scikit-learn · Data Mining · Data Visualization
-**Web & Backend:** React.js · Django REST Framework · Flask · REST APIs · JWT Authentication
-**Tools & Platforms:** Git · GitHub · Jupyter Notebook · NetBeans · Apache Derby
+**Data Science:** Pandas · NumPy · scikit-learn · Matplotlib · Jupyter
+**Web & Backend:** React.js · Django REST Framework · Flask · JDBC/JSP · REST APIs
+**Databases:** SQLite · MySQL
+**Other:** Git & GitHub · JWT Auth · Power BI *(learning)* · Docker *(learning)*
 
 ---
 
-## Projects
+### 🚀 Featured Projects
 
 **[PlayPoint](https://github.com/vivekjpoojary/PlayPoint)**
-Full-stack sports venue booking platform. Implements JWT-based role access across User, Manager, and Admin tiers, real-time slot booking with double-booking prevention, and a scikit-learn regression model for peak-demand prediction.
-`React (Vite)` `Django REST Framework` `SQLite`
+Full-stack sports venue booking platform — React (Vite) frontend + Django REST Framework backend, JWT-based role access control (User/Manager/Admin), real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction.
 
 **[Analyzing SpaceX Launch Data to Predict First-Stage Landing Success](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success)**
-Exploratory data analysis and machine learning model to predict SpaceX first-stage landing outcomes.
-`Python` `Pandas` `scikit-learn`
+End-to-end data science project — web scraping, EDA, SQL, and predictive modeling to forecast SpaceX Falcon 9 first-stage landing outcomes.
 
 **[Funnel Drop-off Analysis](https://github.com/vivekjpoojary/funnel-dropoff-analysis)**
-Analysis of a signup/checkout funnel to identify the primary stage of user drop-off.
-`Python` `Pandas`
+Analysis of a signup/checkout funnel using Python and Pandas to pinpoint the biggest user drop-off stage.
 
 **[Data Science Tools Notebook](https://github.com/vivekjpoojary/data-science-tools-notebook)**
-Reference notebook covering the core Python data science toolkit.
-`Jupyter Notebook`
-
-Additional work is available on my [portfolio](https://vivekjpoojary.vercel.app).
+A working notebook of data science tooling, techniques, and experiments.
 
 ---
 
-## Certifications
+### 🎓 Certifications
 
 - IBM Data Science Professional Certificate
 - Deloitte Technology Virtual Experience Program (Forage)
-- Introduction to Generative AI Studio — Google Cloud, via Simplilearn SkillUp
+- Introduction to Generative AI Studio — Google Cloud via Simplilearn SkillUp
 - Data Formats for Data Engineering and AI — Edvane
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekjpoojary&show_icons=true&theme=default&hide_border=true" />
@@ -64,8 +56,12 @@ Additional work is available on my [portfolio](https://vivekjpoojary.vercel.app)
 
 ---
 
-## Contact
+### 🤝 Let's Connect
 
-**Email:** vivekjpoojary@gmail.com
-**LinkedIn:** [linkedin.com/in/vivekjpoojary](https://www.linkedin.com/in/vivekjpoojary)
-**Portfolio:** [vivekjpoojary.vercel.app](https://vivekjpoojary.vercel.app)
+I'm always open to discussing data science opportunities, collaborative projects, or just talking tech. Feel free to reach out!
+
+<p>
+  <a href="mailto:vivekjpoojary@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/vivekjpoojary">LinkedIn</a> ·
+  <a href="https://vivekjpoojary.vercel.app">Portfolio</a>
+</p>
