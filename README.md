@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Vivek J Poojary</h1>
+<h1 align="center">
+  Hi, I'm Vivek J Poojary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+</h1>
 
-<h3 align="center">Data Science & Software Engineering | Turning data into decisions, ideas into products</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA44F&center=true&vCenter=true&width=560&lines=Data+Science+%26+Software+Engineering;Turning+data+into+decisions%2C+ideas+into+products;Open+to+entry-level+roles+%E2%80%94+remote+or+relocation" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://vivekjpoojary.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vivekjpoojary.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -56,10 +60,36 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjpoojary&layout=compact&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=vivekjpoojary&hide_border=true" />
+</p>
+
+---
+
+### Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekjpoojary&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Animated automatically from live contribution data — see setup note below.
+
 ---
 
 ### Let's Connect
 
 I'm actively looking for opportunities to contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [Email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekjpoojary&label=Profile%20Views&color=2ea44f&style=flat" />
+</p>
 
 <p align="center"><i>Thanks for stopping by — star this space if you'd like to see more.</i></p>
