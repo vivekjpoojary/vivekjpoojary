@@ -1,49 +1,50 @@
-# Hi, I'm Vivek J Poojary 👋
+<h1 align="center">Hi, I'm Vivek J Poojary </h1>
+<h3 align="center">Data Science & Software Engineering | Turning data into decisions, ideas into products</h3>
 
-**Aspiring Data Scientist | Software Engineer | BCA Graduate (2026)**
-
-I'm a fresh Computer Applications graduate from Mangaluru, India, passionate about turning data into decisions and building clean, functional software. Currently looking for full-time opportunities in **Data Science, Data Analytics, Software Engineering, and IT Consulting** — open to remote roles and relocation.
-
-🔭 Currently sharpening my skills in machine learning pipelines and full-stack development
-🌱 Exploring LangChain, RAG pipelines, and vector databases
-📫 Reach me at **vivekjpoojary@gmail.com**
-🌐 Portfolio: [vivekjpoojary.vercel.app](https://vivekjpoojary.vercel.app)
-💼 [LinkedIn](https://linkedin.com/in/vivekjpoojary) &nbsp;|&nbsp; 📄 [Resume](https://vivekjpoojary.vercel.app)
+<p align="center">
+  <a href="https://vivekjpoojary.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vivekjpoojary.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivekjpoojary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vivekjpoojary@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Skills & Tools
+### 👋 About Me
 
-**Languages:** Python · Java · SQL · JavaScript
-**Data Science:** Pandas · NumPy · scikit-learn · Matplotlib · Jupyter
-**Web & Backend:** React.js · Django REST Framework · Flask · JDBC/JSP · REST APIs
-**Databases:** SQLite · MySQL
-**Other:** Git & GitHub · JWT Auth · Power BI *(learning)* · Docker *(learning)*
+I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**.
+
+- 🔭 Currently sharpening my skills in applied ML and full-stack development, and open to **entry-level roles in Data Science / Data Analytics / Software Engineering / IT Consulting**
+- 🌍 Open to **remote work and relocation**
+- 📜 IBM Data Science Professional Certificate holder
+- 💼 Completed the **Deloitte Technology Virtual Experience Program** (Forage)
+- 🎓 Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
+- ⚡ Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,react,django,flask,sqlite,mysql,git,github,vscode,figma" />
+</p>
+
+**Languages & Core:** Python · Java · SQL · JavaScript
+**Data Science:** Pandas · NumPy · scikit-learn · Data Visualization · Data Mining
+**Web & Backend:** React.js · Django REST Framework · Flask · JWT Auth · REST APIs
+**Tools:** Git & GitHub · Jupyter Notebook · NetBeans · Apache Derby
 
 ---
 
 ### 🚀 Featured Projects
 
-**[PlayPoint](https://github.com/vivekjpoojary/PlayPoint)**
-Full-stack sports venue booking platform — React (Vite) frontend + Django REST Framework backend, JWT-based role access control (User/Manager/Admin), real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction.
+| Project | Description | Stack |
+|---|---|---|
+| **[PlayPoint](https://github.com/vivekjpoojary/PlayPoint)** | Full-stack sports venue booking platform with JWT-based role access across User/Manager/Admin tiers, real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction | React (Vite), Django REST Framework, SQLite |
+| **[Analyzing SpaceX Launch Data](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success)** | Predicting first-stage landing success for SpaceX launches using exploratory data analysis and machine learning | Python, Pandas, scikit-learn |
+| **[Funnel Drop-off Analysis](https://github.com/vivekjpoojary/funnel-dropoff-analysis)** | Analysis of a signup/checkout funnel to pinpoint the biggest user drop-off stage | Python, Pandas |
+| **[Data Science Tools Notebook](https://github.com/vivekjpoojary/data-science-tools-notebook)** | Notebook exploring the core Python data science toolkit | Jupyter Notebook |
 
-**[Analyzing SpaceX Launch Data to Predict First-Stage Landing Success](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success)**
-End-to-end data science project — web scraping, EDA, SQL, and predictive modeling to forecast SpaceX Falcon 9 first-stage landing outcomes.
-
-**[Funnel Drop-off Analysis](https://github.com/vivekjpoojary/funnel-dropoff-analysis)**
-Analysis of a signup/checkout funnel using Python and Pandas to pinpoint the biggest user drop-off stage.
-
-**[Data Science Tools Notebook](https://github.com/vivekjpoojary/data-science-tools-notebook)**
-A working notebook of data science tooling, techniques, and experiments.
-
----
-
-### 🎓 Certifications
-
-- IBM Data Science Professional Certificate
-- Deloitte Technology Virtual Experience Program (Forage)
-- Introduction to Generative AI Studio — Google Cloud via Simplilearn SkillUp
-- Data Formats for Data Engineering and AI — Edvane
+📁 More on my [portfolio site](https://vivekjpoojary.vercel.app) →
 
 ---
 
@@ -56,12 +57,8 @@ A working notebook of data science tooling, techniques, and experiments.
 
 ---
 
-### 🤝 Let's Connect
+### 📫 Let's Connect
 
-I'm always open to discussing data science opportunities, collaborative projects, or just talking tech. Feel free to reach out!
+I'm actively looking for opportunities where I can contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
 
-<p>
-  <a href="mailto:vivekjpoojary@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/vivekjpoojary">LinkedIn</a> ·
-  <a href="https://vivekjpoojary.vercel.app">Portfolio</a>
-</p>
+<p align="center"><i>Thanks for stopping by! ⭐ this space if you'd like to see more.</i></p>
