@@ -63,12 +63,16 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=vivekjpoojary&hide_border=true" />
 </p>
+
+---
+
 ### Contribution Snake
- 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-contribution-grid-snake.svg" />
 </p>
- 
+
+---
 
 ### Let's Connect
 
