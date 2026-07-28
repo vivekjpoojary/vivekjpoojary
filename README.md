@@ -1,16 +1,64 @@
-## Hi Arpitha 👋
+<h1 align="center">Hi, I'm Vivek J Poojary 👋</h1>
+<h3 align="center">Data Science & Software Engineering | Turning data into decisions, ideas into products</h3>
 
-<!--
-**vivekjpoojary/vivekjpoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://vivekjpoojary.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vivekjpoojary.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vivekjpoojary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vivekjpoojary@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**.
+
+- 🔭 Currently sharpening my skills in applied ML and full-stack development, and open to **entry-level roles in Data Science / Data Analytics / Software Engineering / IT Consulting**
+- 🌍 Open to **remote work and relocation**
+- 📜 IBM Data Science Professional Certificate holder
+- 💼 Completed the **Deloitte Technology Virtual Experience Program** (Forage)
+- 🎓 Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
+- ⚡ Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,react,django,flask,sqlite,mysql,git,github,vscode,figma" />
+</p>
+
+**Languages & Core:** Python · Java · SQL · JavaScript
+**Data Science:** Pandas · NumPy · scikit-learn · Data Visualization · Data Mining
+**Web & Backend:** React.js · Django REST Framework · Flask · JWT Auth · REST APIs
+**Tools:** Git & GitHub · Jupyter Notebook · NetBeans · Apache Derby
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[PlayPoint](https://github.com/vivekjpoojary/PlayPoint)** | Full-stack sports venue booking platform with JWT-based role access across User/Manager/Admin tiers, real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction | React (Vite), Django REST Framework, SQLite |
+| **[Analyzing SpaceX Launch Data](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success)** | Predicting first-stage landing success for SpaceX launches using exploratory data analysis and machine learning | Python, Pandas, scikit-learn |
+| **[Funnel Drop-off Analysis](https://github.com/vivekjpoojary/funnel-dropoff-analysis)** | Analysis of a signup/checkout funnel to pinpoint the biggest user drop-off stage | Python, Pandas |
+| **[Data Science Tools Notebook](https://github.com/vivekjpoojary/data-science-tools-notebook)** | Notebook exploring the core Python data science toolkit | Jupyter Notebook |
+
+📁 More on my [portfolio site](https://vivekjpoojary.vercel.app) →
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekjpoojary&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjpoojary&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm actively looking for opportunities where I can contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
+
+<p align="center"><i>Thanks for stopping by! ⭐ this space if you'd like to see more.</i></p>
