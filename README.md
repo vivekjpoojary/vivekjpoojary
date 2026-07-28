@@ -13,12 +13,11 @@
 
 I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**.
 
-- 🔭 Currently sharpening my skills in applied ML and full-stack development, and open to **entry-level roles in Data Science / Data Analytics / Software Engineering / IT Consulting**
-- 🌍 Open to **remote work and relocation**
-- 📜 IBM Data Science Professional Certificate holder
-- 💼 Completed the **Deloitte Technology Virtual Experience Program** (Forage)
-- 🎓 Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
-- ⚡ Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
+-  Currently sharpening my skills in applied ML and full-stack development, and open to **entry-level roles in Data Science / Data Analytics / Software Engineering / IT Consulting**
+-  Open to **remote work and relocation**
+-  IBM Data Science Professional Certificate holder
+-  Completed the **Deloitte Technology Virtual Experience Program** (Forage)
+-  Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
 
 ---
 
