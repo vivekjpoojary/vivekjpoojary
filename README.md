@@ -56,12 +56,7 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekjpoojary&show_icons=true&theme=default&hide_border=true&v=1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjpoojary&layout=compact&hide_border=true&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=vivekjpoojary&hide_border=true&v=1" />
+  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-metrics.svg" alt="GitHub Stats" />
 </p>
 
 ### Contribution Snake
