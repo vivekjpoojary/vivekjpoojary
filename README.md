@@ -3,12 +3,12 @@
 <h3 align="center">Data Science & Software Engineering Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=560&lines=Data+Science+%26+Software+Engineering;Turning+data+into+decisions%2C+ideas+into+products;Open+to+entry-level+roles+%E2%80%94+remote+or+relocation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Data+Science+%26+Software+Engineering;Turning+data+into+decisions%2C+ideas+into+products;Open+to+entry-level+roles+%E2%80%94+remote+or+relocation" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mangalore,%20India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Education-BCA%20Graduate%20(2026)-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-BCA%20Graduate-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
@@ -16,7 +16,7 @@
 
 ### About Me
 
-- **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**
+- BCA Graduate (2026) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**
 - Sharpening my skills in applied ML and full-stack development, and open to remote work and relocation
 - IBM Data Science Professional Certificate holder & completed the Deloitte Technology Virtual Experience Program (Forage)
 - Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
@@ -84,10 +84,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://vivekjpoojary.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekjpoojary&label=Profile%20Views&color=2ea44f&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=vivekjpoojary&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
