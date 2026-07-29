@@ -66,13 +66,7 @@
 
 ---
 
-### Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ### Connect with Me
 
