@@ -56,9 +56,7 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-metrics.svg" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vivekjpoojary&theme=tokyonight&hide_border=true" />
