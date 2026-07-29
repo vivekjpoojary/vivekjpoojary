@@ -59,6 +59,8 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
   <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-metrics.svg" alt="GitHub Stats" />
 </p>
 
+---
+
 ### Contribution Snake
 
 <p align="center">
