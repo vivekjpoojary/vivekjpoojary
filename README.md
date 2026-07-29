@@ -1,27 +1,24 @@
-<h1 align="center">
-  Hi, I'm Vivek J Poojary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-</h1>
+<h1 align="center">Hi there, I'm Vivek J Poojary</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA44F&center=true&vCenter=true&width=560&lines=Data+Science+%26+Software+Engineering;Turning+data+into+decisions%2C+ideas+into+products;Open+to+entry-level+roles+%E2%80%94+remote+or+relocation" alt="Typing SVG" />
-</h3>
+<h3 align="center">Data Science & Software Engineering Graduate</h3>
 
 <p align="center">
-  <a href="https://vivekjpoojary.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-vivekjpoojary.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vivekjpoojary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vivekjpoojary@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=560&lines=Data+Science+%26+Software+Engineering;Turning+data+into+decisions%2C+ideas+into+products;Open+to+entry-level+roles+%E2%80%94+remote+or+relocation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Mangalore,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-BCA%20Graduate%20(2026)-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**.
-
-- Currently sharpening my skills in applied ML and full-stack development, and open to entry-level roles in Data Science, Data Analytics, Software Engineering, or IT Consulting
-- Open to remote work and relocation
-- IBM Data Science Professional Certificate holder
-- Completed the Deloitte Technology Virtual Experience Program (Forage)
+- **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, Data Analytics, and Software Engineering**
+- Sharpening my skills in applied ML and full-stack development, and open to remote work and relocation
+- IBM Data Science Professional Certificate holder & completed the Deloitte Technology Virtual Experience Program (Forage)
 - Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
 - Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
 
@@ -30,26 +27,30 @@ I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be Universi
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,react,django,flask,sqlite,mysql,git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-**Languages & Core:** Python · Java · SQL · JavaScript
-**Data Science:** Pandas · NumPy · scikit-learn · Data Visualization · Data Mining
-**Web & Backend:** React.js · Django REST Framework · Flask · JWT Auth · REST APIs
-**Tools:** Git & GitHub · Jupyter Notebook · NetBeans · Apache Derby
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stack |
+| Project | Description | Tech |
 |---|---|---|
-| **[PlayPoint](https://github.com/vivekjpoojary/PlayPoint)** | Full-stack sports venue booking platform with JWT-based role access across User/Manager/Admin tiers, real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction | React (Vite) · Django REST Framework · SQLite |
-| **[Analyzing SpaceX Launch Data](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success)** | Predicting first-stage landing success for SpaceX launches using exploratory data analysis and machine learning | Python · Pandas · scikit-learn |
-| **[Funnel Drop-off Analysis](https://github.com/vivekjpoojary/funnel-dropoff-analysis)** | Analysis of a signup/checkout funnel to pinpoint the biggest user drop-off stage | Python · Pandas |
-| **[Data Science Tools Notebook](https://github.com/vivekjpoojary/data-science-tools-notebook)** | Notebook exploring the core Python data science toolkit | Jupyter Notebook |
-
-More on my [portfolio site](https://vivekjpoojary.vercel.app) →
+| [**PlayPoint**](https://github.com/vivekjpoojary/PlayPoint) | Full-stack sports venue booking platform with JWT-based role access across User/Manager/Admin tiers, real-time slot booking with double-booking prevention, and a scikit-learn model for peak-demand prediction | React (Vite) · Django REST Framework · SQLite |
+| [**Analyzing SpaceX Launch Data**](https://github.com/vivekjpoojary/Analyzing-SpaceX-Launch-Data-to-Predict-First-Stage-Landing-Success) | Predicting first-stage landing success for SpaceX launches using exploratory data analysis and machine learning | Python · Pandas · scikit-learn |
+| [**Funnel Drop-off Analysis**](https://github.com/vivekjpoojary/funnel-dropoff-analysis) | Analysis of a signup/checkout funnel to pinpoint the biggest user drop-off stage | Python · Pandas |
+| [**Data Science Tools Notebook**](https://github.com/vivekjpoojary/data-science-tools-notebook) | Notebook exploring the core Python data science toolkit | Jupyter Notebook |
 
 ---
 
@@ -59,22 +60,34 @@ More on my [portfolio site](https://vivekjpoojary.vercel.app) →
   <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-metrics.svg" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vivekjpoojary&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vivekjpoojary/vivekjpoojary/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### Let's Connect
+### Connect with Me
 
-I'm actively looking for opportunities to contribute to data-driven products and grow as an engineer. Always open to a conversation — reach out via [Email](mailto:vivekjpoojary@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vivekjpoojary).
+<p align="left">
+  <a href="https://www.linkedin.com/in/vivekjpoojary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vivekjpoojary@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vivekjpoojary.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekjpoojary&label=Profile%20Views&color=2ea44f&style=flat" />
 </p>
-
-<p align="center"><i>Thanks for stopping by — star this space if you'd like to see more.</i></p>
