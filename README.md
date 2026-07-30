@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vivek J Poojary</h1>
+<h1 align="center">Hi there, I'm Vivek J Poojary </h1>
 
 <h3 align="center">Data Science & Software Engineering Graduate</h3>
 
