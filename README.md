@@ -16,11 +16,12 @@
 
 ### About Me
 
-- BCA Graduate (2026, CGPA 8.08) from St. Aloysius (Deemed to be University), Mangalore, focused on **Data Science, AI/ML Engineering, and full-stack development**
-- Building and shipping end-to-end systems — from ML pipelines to production-deployed RAG applications with CI/CD
-- IBM Data Science Professional Certificate holder & completed the Deloitte Technology Virtual Experience Program (Forage)
-- Pursuing an MCA (correspondence) alongside work, with a long-term interest in an MS in Data Science
-- Fun fact: when I'm not debugging code, I'm probably talking about Royal Enfield motorcycles
+I'm a **2026 BCA graduate** (CGPA 8.08) from St. Aloysius (Deemed to be University), Mangaluru, specializing in **Data Science and AI/ML Engineering**, with working proficiency across the full-stack development lifecycle.
+
+- Experienced in building and deploying production-grade systems — including a retrieval-augmented generation (RAG) platform with CI/CD, automated testing, and live deployment — rather than stopping at notebook-level prototypes
+- IBM Data Science Professional Certificate holder; completed the Deloitte Technology Virtual Experience Program (Forage)
+- Seeking entry-level opportunities in Data Science, AI/ML Engineering, or Software Engineering — open to remote work and relocation
+- Currently pursuing an MCA (correspondence), with long-term interest in an MS in Data Science
 
 ---
 
